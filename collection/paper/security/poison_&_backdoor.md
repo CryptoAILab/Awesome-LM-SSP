@@ -1,4 +1,7 @@
 # B3. Poison & Backdoor
+- [2025/10] **[Collaborative Shadows: Distributed Backdoor Attacks in LLM-Based Multi-Agent Systems ](https://arxiv.org/abs/2510.11246)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers](https://arxiv.org/abs/2510.13462)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MoE](https://img.shields.io/badge/MoE-87b800)
+- [2025/10] **[ADMIT: Few-shot Knowledge Poisoning Attacks on RAG-based Fact Checking](https://arxiv.org/abs/2510.13842)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/10] **[Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects](https://arxiv.org/abs/2510.09269)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[Rethinking Reasoning: A Survey on Reasoning-based Backdoors in LLMs](https://arxiv.org/abs/2510.07697)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/10] **[P2P: A Poison-to-Poison Remedy for Reliable Backdoor Defense in LLMs](https://arxiv.org/abs/2510.04503)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,9 @@
 # C10. Watermark & Copyright
+- [2025/10] **[SynthID-Image: Image watermarking at internet scale](https://arxiv.org/abs/2510.09263)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/10] **[DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](https://arxiv.org/abs/2510.10987)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models](https://arxiv.org/abs/2510.13793)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/10] **[SimKey: A Semantically Aware Key Module for Watermarking Language Models](https://arxiv.org/abs/2510.12828)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Every Language Model Has a Forgery-Resistant Signature](https://arxiv.org/abs/2510.14086)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation](https://arxiv.org/abs/2510.06605)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[CATMark: A Context-Aware Thresholding Framework for Robust Cross-Task Watermarking in Large Language Models](https://arxiv.org/abs/2510.02342)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Secure and Robust Watermarking for AI-generated Images: A Comprehensive Survey](https://arxiv.org/abs/2510.02384)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/10] **[Pharmacist: Safety Alignment Data Curation for Large Language Models against Harmful Fine-tuning](https://arxiv.org/abs/2510.10085)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Refusal Falls off a Cliff: How Safety Alignment Fails in Reasoning?](https://arxiv.org/abs/2510.06036)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[LLMs Learn to Deceive Unintentionally: Emergent Misalignment in Dishonesty from Misaligned Samples to Biased Human-AI Interactions](https://arxiv.org/abs/2510.08211)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
