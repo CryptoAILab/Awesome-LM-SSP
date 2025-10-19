@@ -1,6 +1,6 @@
 # A1. Jailbreak
 - [2025/10] **[The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Injections](https://arxiv.org/abs/2510.09023)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/10] **[Pattern Enhanced Multi-Turn Jailbreaking: Exploiting Structural Vulnerabilities in Large Language Models](https://arxiv.org/abs/2510.08859)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Pattern Enhanced Multi-Turn Jailbreaking: Exploiting Structural Vulnerabilities in Large Language Models](https://arxiv.org/abs/2510.08859)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Ragib-Amin-Nihal/PE-CoA) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[VisualDAN: Exposing Vulnerabilities in VLMs with Visual-Driven DAN Commands](https://arxiv.org/abs/2510.09699)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation ](https://arxiv.org/abs/2510.10271)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling](https://arxiv.org/abs/2510.05379)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
