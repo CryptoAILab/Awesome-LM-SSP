@@ -1,4 +1,9 @@
 # B2. Agent
+- [2025/10] **[Monitoring LLM-based Multi-Agent Systems Against Corruptions via Node Evaluation](https://arxiv.org/abs/2510.19420)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts](https://arxiv.org/abs/2510.19856)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability](https://arxiv.org/abs/2510.18563)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://arxiv.org/abs/2510.15994)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Toward Understanding Security Issues in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2510.16558)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[CommandSans: Securing AI Agents with Surgical Precision Prompt Sanitization](https://arxiv.org/abs/2510.08829)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents](https://arxiv.org/abs/2510.10073)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems](https://arxiv.org/abs/2510.14133)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,7 @@
 # A2. Alignment
+- [2025/10] **[HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment](https://arxiv.org/abs/2510.15499)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[VisuoAlign: Safety Alignment of LVLMs with Multimodal Tree Search](https://arxiv.org/abs/2510.15948)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/10] **[Detecting Adversarial Fine-tuning with Auditing Agents](https://arxiv.org/abs/2510.16255)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Pharmacist: Safety Alignment Data Curation for Large Language Models against Harmful Fine-tuning](https://arxiv.org/abs/2510.10085)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Refusal Falls off a Cliff: How Safety Alignment Fails in Reasoning?](https://arxiv.org/abs/2510.06036)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

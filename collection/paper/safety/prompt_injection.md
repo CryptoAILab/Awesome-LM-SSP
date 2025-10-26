@@ -1,4 +1,6 @@
 # A7. Prompt Injection
+- [2025/10] **[Defending Against Prompt Injection with DataFilter](https://arxiv.org/abs/2510.19207)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[CourtGuard: A Local, Multiagent Prompt Injection Classifier](https://arxiv.org/abs/2510.19844)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[PromptLocate: Localizing Prompt Injection Attacks](https://arxiv.org/abs/2510.12252)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![S&P'26](https://img.shields.io/badge/S&P'26-f1b800)
 - [2025/10] **[In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers](https://arxiv.org/abs/2510.13543)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[PIShield: Detecting Prompt Injection Attacks via Intrinsic LLM Features](https://arxiv.org/abs/2510.14005)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

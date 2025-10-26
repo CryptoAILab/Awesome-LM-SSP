@@ -1,4 +1,6 @@
 # B3. Poison & Backdoor
+- [2025/10] **[PoTS: Proof-of-Training-Steps for Backdoor Detection in Large Language Models](https://arxiv.org/abs/2510.15106)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[One Token Embedding Is Enough to Deadlock Your Large Reasoning Model](https://arxiv.org/abs/2510.15965)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Collaborative Shadows: Distributed Backdoor Attacks in LLM-Based Multi-Agent Systems ](https://arxiv.org/abs/2510.11246)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers](https://arxiv.org/abs/2510.13462)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MoE](https://img.shields.io/badge/MoE-87b800)
 - [2025/10] **[ADMIT: Few-shot Knowledge Poisoning Attacks on RAG-based Fact Checking](https://arxiv.org/abs/2510.13842)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
