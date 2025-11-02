@@ -1,4 +1,10 @@
 # A1. Jailbreak
+- [2025/10] **[Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training](https://arxiv.org/abs/2510.20956)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](https://arxiv.org/abs/2510.21189)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800)
+- [2025/10] **[The Trojan Example: Jailbreaking LLMs through Template Filling and Unsafety Reasoning](https://arxiv.org/abs/2510.21190)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Enhanced MLLM Black-Box Jailbreaking Attacks and Defenses](https://arxiv.org/abs/2510.21214)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2025/10] **[Jailbreak Mimicry: Automated Discovery of Narrative-Based Jailbreaks for Large Language Models](https://arxiv.org/abs/2510.22085)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks](https://arxiv.org/abs/2510.22628)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/10] **[HarmNet: A Framework for Adaptive Multi-Turn Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2510.18728)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Beyond Text: Multimodal Jailbreaking of Vision-Language and Audio Models through Perceptually Simple Transformations](https://arxiv.org/abs/2510.20223)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[Active Honeypot Guardrail System: Probing and Confirming Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2510.15017)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,6 @@
-# C4. Membership Inference Attacks
+# C3. Membership Inference Attacks
+- [2025/10] **[Fast-MIA: Efficient and Scalable Membership Inference for LLMs](https://arxiv.org/abs/2510.23074)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models](https://arxiv.org/abs/2510.21783)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts](https://arxiv.org/abs/2510.13451)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Membership Inference Attacks on Tokenizers of Large Language Models](https://arxiv.org/abs/2510.05699)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation](https://arxiv.org/abs/2509.06026)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)

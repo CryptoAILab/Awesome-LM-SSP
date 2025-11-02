@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/10] **[Secure Retrieval-Augmented Generation against Poisoning Attacks](https://arxiv.org/abs/2510.25025)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/10] **[PoTS: Proof-of-Training-Steps for Backdoor Detection in Large Language Models](https://arxiv.org/abs/2510.15106)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[One Token Embedding Is Enough to Deadlock Your Large Reasoning Model](https://arxiv.org/abs/2510.15965)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Collaborative Shadows: Distributed Backdoor Attacks in LLM-Based Multi-Agent Systems ](https://arxiv.org/abs/2510.11246)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

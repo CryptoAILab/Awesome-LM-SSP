@@ -1,4 +1,4 @@
-# C9. Unlearning
+# C8. Unlearning
 - [2025/10] **[Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning ](https://arxiv.org/abs/2510.00125)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Unlearning at Scale: Implementing the Right to be Forgotten in Large Language Models](https://arxiv.org/abs/2508.12220)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://arxiv.org/abs/2508.15314)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800) ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800)

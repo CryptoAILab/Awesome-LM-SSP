@@ -1,4 +1,8 @@
 # B2. Agent
+- [2025/10] **[MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers](https://arxiv.org/abs/2510.23673)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning](https://arxiv.org/abs/2510.26037)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Who Grants the Agent Power? Defending Against Instruction Injection via Task-Centric Access Control](https://arxiv.org/abs/2510.26212)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Monitoring LLM-based Multi-Agent Systems Against Corruptions via Node Evaluation](https://arxiv.org/abs/2510.19420)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Model Context Contracts - MCP-Enabled Framework to Integrate LLMs With Blockchain Smart Contracts](https://arxiv.org/abs/2510.19856)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability](https://arxiv.org/abs/2510.18563)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
