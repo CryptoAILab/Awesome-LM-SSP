@@ -1,7 +1,6 @@
 # Awesome-LM-SSP
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Page Views](https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg)](.)
 [![Stars](https://img.shields.io/github/stars/ThuCCSLab/Awesome-LM-SSP)](.)
 
 [<img src="figure/title_new.png" alt="Awesome-LM-SSP" width="1000" height="auto" class="center">](.)
@@ -70,7 +69,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ## Big love to the community — thank you! 🙏
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ThuCCSLab/Awesome-LM-SSP&type=Date)](https://star-history.com/#ThuCCSLab/Awesome-LM-SSP&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=CryptoAILab/Awesome-LM-SSP&type=Date)](https://star-history.com/#CryptoAILab/Awesome-LM-SSP&Date)
 
 ## Acknowledgement
 
