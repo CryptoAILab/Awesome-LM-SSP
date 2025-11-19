@@ -1,4 +1,5 @@
-# C9. Unlearning
+# C8. Unlearning
+- [2025/10] **[Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning ](https://arxiv.org/abs/2510.00125)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Unlearning at Scale: Implementing the Right to be Forgotten in Large Language Models](https://arxiv.org/abs/2508.12220)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://arxiv.org/abs/2508.15314)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800) ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800)
 - [2025/08] **[Refusal Is Not an Option: Unlearning Safety Alignment of Large Language Models](https://www.usenix.org/system/files/usenixsecurity25-song-minkyoo.pdf)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![USENIX_Security'25](https://img.shields.io/badge/USENIX_Security'25-f1b800)
@@ -33,6 +34,7 @@
 - [2024/06] **[RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://rwku-bench.github.io/) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/06] **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://arxiv.org/abs/2406.09325)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2024/04] **[SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/04] **[Espresso: Robust Concept Filtering in Text-to-Image Models](https://arxiv.org/abs/2404.19227)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/04] **[Machine Unlearning in Large Language Models](https://arxiv.org/abs/2404.16841)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[LMEraser: Large Model Unlearning through Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

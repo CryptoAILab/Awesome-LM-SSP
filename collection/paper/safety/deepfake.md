@@ -1,4 +1,7 @@
 # A3. Deepfake
+- [2025/10] **[DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection](https://arxiv.org/abs/2510.22622)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/10] **[Modeling the Attack: Detecting AI-Generated Text by Quantifying Adversarial Perturbations](https://arxiv.org/abs/2510.02319)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[EditTrack: Detecting and Attributing AI-assisted Image Editing](https://arxiv.org/abs/2510.01173)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/08] **[Self-Disguise Attack: Induce the LLM to disguise itself for AIGT detection evasion](https://arxiv.org/abs/2508.15848)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Two Birds with One Stone: Multi-Task Detection and Attribution of LLM-Generated Text](https://arxiv.org/abs/2508.14190)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[MM-FusionNet: Context-Aware Dynamic Fusion for Multi-modal Fake News Detection with Large Vision-Language Models](https://arxiv.org/abs/2508.05684)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
@@ -28,6 +31,7 @@
 - [2025/02] **[GAP-Diff: Protecting JPEG-Compressed Images from Diffusion-based Facial Customization](https://www.ndss-symposium.org/ndss-paper/gap-diff-protecting-jpeg-compressed-images-from-diffusion-based-facial-customization/)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/02] **[Modification and Generated-Text Detection: Achieving Dual Detection Capabilities for the Outputs of LLM by Watermark](https://arxiv.org/abs/2502.08332)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/01] **[FDLLM: A Text Fingerprint Detection Method for LLMs in Multi-Language, Multi-Domain Black-Box Environments](https://arxiv.org/abs/2501.16029)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/12] **[SafeEar: Content Privacy-Preserving Audio Deepfake Detection](https://dl.acm.org/doi/abs/10.1145/3658644.3670285)** ![ALM](https://img.shields.io/badge/ALM-ee82ee) ![Audio](https://img.shields.io/badge/Audio-87b800) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/12] **[Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media](https://arxiv.org/abs/2412.18148)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/11] **[Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey](https://arxiv.org/abs/2411.17911)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2024/11] **[AI-generated Image Detection: Passive or Watermark?](https://arxiv.org/abs/2411.13553)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
