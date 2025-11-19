@@ -21,11 +21,16 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
    - Venue: ![conference](https://img.shields.io/badge/conference-f1b800) ![blog](https://img.shields.io/badge/blog-f1b800) ![OpenAI](https://img.shields.io/badge/OpenAI-f1b800)  ![Meta AI](https://img.shields.io/badge/Meta_AI-f1b800) ...
 
-- :sunflower: Welcome to recommend resources to us via pulling requests or opening issues with the following format: 
+\`\`\`diff
+- :sunflower: [IMPORTANT!!!] Help us update the list!
+\`\`\`
+  - First, check papers through our database: [Metadata of LM-SSP](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing).
+  - If you want to update the information of a paper (e.g., an arXiv paper has been accepted by a venue), search the paper title in our [metadata table](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing) and then leave a message in the corresponding cell of the table.
+  - If you would like to add some paper, please fill in the following table through `ISSUE`:
 
 | Title | Link  | Code |   Venue |  Classification |  Model | Comment | 
 | ---- |---- |---- |---- |---- |----|----| 
-| aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
+| This is a title |  paper.com | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
 
 ## News
 - [2025.01.09] 🎂 Happy 1st Birthday to Awesome-LM-SSP! Keep Going! 💪
