@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/11] **[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880)** ![S&P'26](https://img.shields.io/badge/S&P'26-f1b800) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/10] **[HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment](https://arxiv.org/abs/2510.15499)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[VisuoAlign: Safety Alignment of LVLMs with Multimodal Tree Search](https://arxiv.org/abs/2510.15948)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[Detecting Adversarial Fine-tuning with Auditing Agents](https://arxiv.org/abs/2510.16255)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -6,6 +7,7 @@
 - [2025/10] **[Refusal Falls off a Cliff: How Safety Alignment Fails in Reasoning?](https://arxiv.org/abs/2510.06036)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[LLMs Learn to Deceive Unintentionally: Emergent Misalignment in Dishonesty from Misaligned Samples to Biased Human-AI Interactions](https://arxiv.org/abs/2510.08211)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[OrthAlign: Orthogonal Subspace Decomposition for Non-Interfering Multi-Objective Alignment](https://arxiv.org/abs/2509.24610)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment](https://arxiv.org/abs/2509.22745)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MoE](https://img.shields.io/badge/MoE-87b800)
 - [2025/09] **[GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners](https://arxiv.org/abs/2509.24418)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Beyond Surface Alignment: Rebuilding LLMs Safety Mechanism via Probabilistically Ablating Refusal Direction](https://arxiv.org/abs/2509.15202)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'25_(Finding)](https://img.shields.io/badge/EMNLP'25_(Finding)-f1b800)
@@ -63,6 +65,7 @@
 - [2025/01] **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[Semantic Loss Guided Data Efficient Supervised Fine Tuning for Safe Responses in LLMs](https://arxiv.org/abs/2412.06843)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2024/12] **[On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/10] **[Legilimens: Practical and unified content moderation for large language model services](https://arxiv.org/abs/2408.15488)** ![CCS](https://img.shields.io/badge/CCS'24-f1b800) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2024/10] **[ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time](https://arxiv.org/pdf/2410.06625)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/DripNowhy/ETA) ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/10] **[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attack](https://arxiv.org/abs/2410.18210)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[On the Role of Attention Heads in Large Language Model Safety](https://arxiv.org/abs/2410.13708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
