@@ -9,6 +9,7 @@
 - [2025/05] **[Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study](https://arxiv.org/abs/2505.02502)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs](https://arxiv.org/abs/2504.21680)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[Are You Getting What You Pay For? Auditing Model Substitution in LLM APIs](https://arxiv.org/abs/2504.04715)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/02] **[RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer](https://arxiv.org/abs/2409.02074)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'25](https://img.shields.io/badge/NDSS'25-f1b800)
 - [2025/02] **[Auditing Prompt Caching in Language Model APIs](https://arxiv.org/abs/2502.07776)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[An Engorgio Prompt Makes Large Language Model Babble on](https://arxiv.org/abs/2412.19394)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/12] **[Crabs: Consuming Resrouce via Auto-generation for LLM-DoS Attack under Black-box Settings](https://arxiv.org/abs/2412.13879)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
