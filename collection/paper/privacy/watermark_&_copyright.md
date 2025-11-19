@@ -1,7 +1,7 @@
 # C9. Watermark & Copyright
 - [2025/10] **[PRO: Enabling Precise and Robust Text Watermark for Open-Source LLM](https://arxiv.org/abs/2510.23891)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Cross-Lingual Summarization as a Black-Box Watermark Removal Attack](https://arxiv.org/abs/2510.24789)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/10] **[SLIP-SEC: Formalizing Secure Protocols for Model IP Protection ](https://arxiv.org/abs/2510.24999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[SLIP-SEC: Formalizing Secure Protocols for Model IP Protection](https://arxiv.org/abs/2510.24999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[PVMark: Enabling Public Verifiability for LLM Watermarking Schemes](https://arxiv.org/abs/2510.26274)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[A Reinforcement Learning Framework for Robust and Secure LLM Watermarking](https://arxiv.org/abs/2510.21053)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Optimal Detection for Language Watermarks with Pseudorandom Collision](https://arxiv.org/abs/2510.22007)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
