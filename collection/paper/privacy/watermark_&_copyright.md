@@ -7,7 +7,7 @@
 - [2025/10] **[Optimal Detection for Language Watermarks with Pseudorandom Collision](https://arxiv.org/abs/2510.22007)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Position: LLM Watermarking Should Align Stakeholders' Incentives for Practical Adoption](https://arxiv.org/abs/2510.18333)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Learning to Watermark: A Selective Watermarking Framework for Large Language Models via Multi-Objective Optimization](https://arxiv.org/abs/2510.15976)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/10] **[EditMark: Watermarking Large Language Models based on Model Editing ](https://arxiv.org/abs/2510.16367)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[EditMark: Watermarking Large Language Models based on Model Editing](https://arxiv.org/abs/2510.16367)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[DistilLock: Safeguarding LLMs from Unauthorized Knowledge Distillation on the Edge](https://arxiv.org/abs/2510.16716)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[SynthID-Image: Image watermarking at internet scale](https://arxiv.org/abs/2510.09263)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](https://arxiv.org/abs/2510.10987)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

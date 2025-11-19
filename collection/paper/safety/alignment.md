@@ -1,5 +1,5 @@
 # A2. Alignment
-- [2025/11] **[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880)** ![S&P'26](https://img.shields.io/badge/S&P'26-f1b800) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2025/11] **[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![S&P'26](https://img.shields.io/badge/S&P'26-f1b800)
 - [2025/10] **[HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment](https://arxiv.org/abs/2510.15499)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[VisuoAlign: Safety Alignment of LVLMs with Multimodal Tree Search](https://arxiv.org/abs/2510.15948)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[Detecting Adversarial Fine-tuning with Auditing Agents](https://arxiv.org/abs/2510.16255)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -65,7 +65,7 @@
 - [2025/01] **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/12] **[Semantic Loss Guided Data Efficient Supervised Fine Tuning for Safe Responses in LLMs](https://arxiv.org/abs/2412.06843)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800)
 - [2024/12] **[On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2024/10] **[Legilimens: Practical and unified content moderation for large language model services](https://arxiv.org/abs/2408.15488)** ![CCS](https://img.shields.io/badge/CCS'24-f1b800) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2024/10] **[Legilimens: Practical and unified content moderation for large language model services](https://arxiv.org/abs/2408.15488)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![CCS'24](https://img.shields.io/badge/CCS'24-f1b800)
 - [2024/10] **[ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time](https://arxiv.org/pdf/2410.06625)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/DripNowhy/ETA) ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2024/10] **[Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attack](https://arxiv.org/abs/2410.18210)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/10] **[On the Role of Attention Heads in Large Language Model Safety](https://arxiv.org/abs/2410.13708)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

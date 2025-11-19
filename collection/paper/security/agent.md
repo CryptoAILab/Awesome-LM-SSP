@@ -1,6 +1,6 @@
 # B2. Agent
-- [2025/10] **[WebCloak: Characterizing and Mitigating the Threats of LLM-Driven Web Agents as Intelligent Scrapers](https://letterligo.github.io/paper/SP26_WebAgent.pdf)** ![S&P’26](https://img.shields.io/badge/S&P'26-f1b800) ![LLM](https://img.shields.io/badge/LLM-589cf4)![Agent](https://img.shields.io/badge/Agent-87b800)
-- [2025/10] **[A Vision for Access Control in LLM-based Agent Systems](https://arxiv.org/abs/2510.11108)** ![Vision](https://img.shields.io/badge/Vision-f1b800)![Agent](https://img.shields.io/badge/Agent-87b800)
+- [2025/10] **[A Vision for Access Control in LLM-based Agent Systems](https://arxiv.org/abs/2510.11108)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[WebCloak: Characterizing and Mitigating the Threats of LLM-Driven Web Agents as Intelligent Scrapers](https://letterligo.github.io/paper/SP26_WebAgent.pdf)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![S&P'26](https://img.shields.io/badge/S&P'26-f1b800)
 - [2025/10] **[MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers](https://arxiv.org/abs/2510.23673)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning](https://arxiv.org/abs/2510.26037)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Who Grants the Agent Power? Defending Against Instruction Injection via Task-Centric Access Control](https://arxiv.org/abs/2510.26212)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -13,7 +13,7 @@
 - [2025/10] **[CommandSans: Securing AI Agents with Surgical Precision Prompt Sanitization](https://arxiv.org/abs/2510.08829)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents](https://arxiv.org/abs/2510.10073)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems](https://arxiv.org/abs/2510.14133)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/10] **[Terrarium: Revisiting the Blackboard for Multi-Agent Safety, Privacy, and Security Studies ](https://arxiv.org/abs/2510.14312)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Terrarium: Revisiting the Blackboard for Multi-Agent Safety, Privacy, and Security Studies](https://arxiv.org/abs/2510.14312)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Exploiting Web Search Tools of AI Agents for Data Exfiltration](https://arxiv.org/abs/2510.09093)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Code Agent can be an End-to-end System Hacker: Benchmarking Real-world Threats of Computer-use Agent](https://arxiv.org/abs/2510.06607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Quantifying Distributional Robustness of Agentic Tool-Selection](https://arxiv.org/abs/2510.03992)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
