@@ -1,4 +1,5 @@
 # C3. Membership Inference Attacks
+- [2025/11] **[GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards](https://arxiv.org/abs/2511.14045)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fast-MIA: Efficient and Scalable Membership Inference for LLMs](https://arxiv.org/abs/2510.23074)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models](https://arxiv.org/abs/2510.21783)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts](https://arxiv.org/abs/2510.13451)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

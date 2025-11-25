@@ -1,4 +1,11 @@
 # A1. Jailbreak
+- [2025/11] **[Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments](https://arxiv.org/abs/2511.13788)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/11] **[Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models](https://arxiv.org/abs/2511.16110)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![AAAI'26](https://img.shields.io/badge/AAAI'26-f1b800)
+- [2025/11] **[Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security](https://arxiv.org/abs/2511.16229)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![NDSS'26](https://img.shields.io/badge/NDSS'26-f1b800)
+- [2025/11] **["To Survive, I Must Defect": Jailbreaking LLMs via the Game-Theory Scenarios](https://arxiv.org/abs/2511.16278)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/11] **[Beyond Jailbreak: Unveiling Risks in LLM Applications Arising from Blurred Capability Boundaries](https://arxiv.org/abs/2511.17874)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/11] **[TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization](https://arxiv.org/abs/2511.18581)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/11] **[Defending Large Language Models Against Jailbreak Exploits with Responsible AI Considerations](https://arxiv.org/abs/2511.18933)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Energy-Driven Steering: Reducing False Refusals in Large Language Models](https://arxiv.org/abs/2510.08646)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training](https://arxiv.org/abs/2510.20956)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](https://arxiv.org/abs/2510.21189)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800)
