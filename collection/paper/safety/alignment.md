@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2025/11] **[SPQR: A Standardized Benchmark for Modern Safety Alignment Methods in Text-to-Image Diffusion Models](https://arxiv.org/abs/2511.19558)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/11] **[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![S&P'26](https://img.shields.io/badge/S&P'26-f1b800)
 - [2025/10] **[HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment](https://arxiv.org/abs/2510.15499)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[VisuoAlign: Safety Alignment of LVLMs with Multimodal Tree Search](https://arxiv.org/abs/2510.15948)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

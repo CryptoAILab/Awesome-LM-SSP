@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/11] **[BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents](https://arxiv.org/abs/2511.20597)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/11] **[Securing AI Agents Against Prompt Injection Attacks](https://arxiv.org/abs/2511.15759)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[QueryIPI: Query-agnostic Indirect Prompt Injection on Coding Agents](https://arxiv.org/abs/2510.23675)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Defending Against Prompt Injection with DataFilter](https://arxiv.org/abs/2510.19207)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

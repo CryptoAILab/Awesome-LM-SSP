@@ -1,4 +1,5 @@
 # B1. Adversarial Examples
+- [2025/11] **[On the Feasibility of Hijacking MLLMs' Decision Chain via One Perturbation](https://arxiv.org/abs/2511.20002)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/11] **[Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://arxiv.org/abs/2511.19257)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/08] **[Hidden Tail: Adversarial Image Causing Stealthy Resource Consumption in Vision-Language Models](https://arxiv.org/abs/2508.18805)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)](https://arxiv.org/abs/2508.04894)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
