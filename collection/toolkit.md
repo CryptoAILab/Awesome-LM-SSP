@@ -1,4 +1,5 @@
 # Toolkit
+- [2025/12] **[promptfoo: LLM Red Teaming & Evaluation Framework](https://github.com/promptfoo/promptfoo)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/promptfoo/promptfoo) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/09] **[MarkDiffusion: An Open-Source Toolkit for Generative Watermarking of Latent Diffusion Models](https://arxiv.org/abs/2509.10569)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[aiXamine: LLM Safety and Security Simplified](https://arxiv.org/abs/2504.14985)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/04] **[SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models](https://arxiv.org/abs/2504.08813)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
