@@ -31,7 +31,7 @@
 - [2025/10] **[VisualDAN: Exposing Vulnerabilities in VLMs with Visual-Driven DAN Commands](https://arxiv.org/abs/2510.09699)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation](https://arxiv.org/abs/2510.10271)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling](https://arxiv.org/abs/2510.05379)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/10] **[MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation](https://arxiv.org/abs/2510.07835)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation](https://arxiv.org/abs/2510.07835)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800)
 - [2025/10] **[Effective and Stealthy One-Shot Jailbreaks on Deployed Mobile Vision-Language Agents](https://arxiv.org/abs/2510.07809)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/10] **[Imperceptible Jailbreaking against Large Language Models](https://arxiv.org/abs/2510.05025)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[NEXUS: Network Exploration for eXploiting Unsafe Sequences in Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2510.03417)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
