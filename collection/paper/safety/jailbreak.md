@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/12] **[Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/12] **[Metaphor-based Jailbreaking Attacks on Text-to-Image Models](https://arxiv.org/abs/2512.10766)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/12] **[Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/11] **[Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments](https://arxiv.org/abs/2511.13788)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -43,7 +44,7 @@
 - [2025/10] **[Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks](https://arxiv.org/abs/2510.01359)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Formalization Driven LLM Prompt Jailbreaking via Reinforcement Learning](https://arxiv.org/abs/2509.23558)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Bidirectional Intention Inference Enhances LLMs' Defense Against Multi-Turn Jailbreak Attacks](https://arxiv.org/abs/2509.22732)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/09] **[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents ](https://arxiv.org/abs/2509.25624)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/abs/2509.25624)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2509.21400)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/09] **[bi-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs](https://arxiv.org/abs/2509.19775)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[NeuroStrike: Neuron-Level Attacks on Aligned LLMs](https://arxiv.org/abs/2509.11864)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

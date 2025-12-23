@@ -1,4 +1,5 @@
 # A7. Prompt Injection
+- [2025/12] **[Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks](https://arxiv.org/abs/2512.16307)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'26](https://img.shields.io/badge/NDSS'26-f1b800)
 - [2025/12] **[ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09321)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'26](https://img.shields.io/badge/NDSS'26-f1b800)
 - [2025/12] **[When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection](https://arxiv.org/abs/2512.10449)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

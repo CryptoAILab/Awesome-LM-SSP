@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/12] **[Causal-Guided Detoxify Backdoor Attack of Open-Weight LoRA Models](https://arxiv.org/abs/2512.19297)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'26](https://img.shields.io/badge/NDSS'26-f1b800)
 - [2025/12] **[MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks](https://arxiv.org/abs/2512.08289)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/12] **[Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs](https://arxiv.org/abs/2512.09742)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Bias Injection Attacks on RAG Databases and Sanitization Defenses](https://arxiv.org/abs/2512.00804)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

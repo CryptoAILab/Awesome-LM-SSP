@@ -1,4 +1,5 @@
 # C6. Property Inference Attacks
+- [2025/12] **[Who Can See Through You? Adversarial Shielding Against VLM-Based Attribute Inference Attacks](https://arxiv.org/abs/2512.18264)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/07] **[The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents](https://arxiv.org/abs/2507.10016)** ![ALM](https://img.shields.io/badge/ALM-ee82ee)
 - [2025/06] **[Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs](https://arxiv.org/abs/2506.17353)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/06] **[Can We Infer Confidential Properties of Training Data from LLMs?](https://arxiv.org/abs/2506.10364)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

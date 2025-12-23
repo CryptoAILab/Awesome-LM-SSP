@@ -1,4 +1,7 @@
 # C9. Watermark & Copyright
+- [2025/12] **[Cryptanalysis of Pseudorandom Error-Correcting Codes](https://eprint.iacr.org/2025/2283)** ![LLM/Diffusion](https://img.shields.io/badge/LLM/Diffusion-ee82ee) ![Cryptanalysis](https://img.shields.io/badge/Cryptanalysis-87b800)
+- [2025/12] **[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://arxiv.org/abs/2512.16904)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/12] **[Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform](https://arxiv.org/abs/2512.18791)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Speech](https://img.shields.io/badge/Speech-87b800)
 - [2025/12] **[Watermarks for Language Models via Probabilistic Automata](https://arxiv.org/abs/2512.10185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[MarkTune: Improving the Quality-Detectability Trade-off in Open-Weight LLM Watermarking](https://arxiv.org/abs/2512.04044)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting](https://arxiv.org/abs/2512.03620)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
