@@ -1,4 +1,5 @@
 # Toolkit
+- [2026/01] **[LocalMod: Self-hosted Content Moderation API](https://github.com/KOKOSde/localmod)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/KOKOSde/localmod) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/12] **[promptfoo: LLM Red Teaming & Evaluation Framework](https://github.com/promptfoo/promptfoo)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent/RAG/VLM](https://img.shields.io/badge/Agent/RAG/VLM-87b800)
 - [2025/09] **[MarkDiffusion: An Open-Source Toolkit for Generative Watermarking of Latent Diffusion Models](https://arxiv.org/abs/2509.10569)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/04] **[aiXamine: LLM Safety and Security Simplified](https://arxiv.org/abs/2504.14985)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
