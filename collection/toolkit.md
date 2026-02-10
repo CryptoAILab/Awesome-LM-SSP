@@ -1,3 +1,4 @@
+- [2026/02] **[PwnClaw: AI Agent Security Testing Platform](https://pwnclaw.com)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/ClawdeRaccoon/pwnclaw) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
 # Toolkit
 - [2026/01] **[LocalMod: Self-hosted Content Moderation API](https://github.com/KOKOSde/localmod)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/KOKOSde/localmod) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/12] **[promptfoo: LLM Red Teaming & Evaluation Framework](https://github.com/promptfoo/promptfoo)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent/RAG/VLM](https://img.shields.io/badge/Agent/RAG/VLM-87b800)
