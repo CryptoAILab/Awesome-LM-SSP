@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2026/03] **[TraceGuard: Process-Guided Firewall against Reasoning Backdoors in Large Language Models](https://arxiv.org/abs/2603.02436)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[Weight space Detection of Backdoors in LoRA Adapters](https://arxiv.org/abs/2602.15195)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[LoRA as Oracle](https://arxiv.org/abs/2601.11207)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[SilentDrift: Exploiting Action Chunking for Stealthy Backdoor Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2601.14323)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

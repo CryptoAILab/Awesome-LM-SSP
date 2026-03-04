@@ -1,4 +1,5 @@
 # B5. System
+- [2026/03] **[Real Money, Fake Models: Deceptive Model Claims in Shadow APIs](https://arxiv.org/abs/2603.01919)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Security practices in AI development](https://arxiv.org/abs/2507.21061)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Understanding the Supply Chain and Risks of Large Language Model Applications](https://arxiv.org/abs/2507.18105)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[ExtendAttack: Attacking Servers of LRMs via Extending Reasoning](https://arxiv.org/abs/2506.13737)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
