@@ -15,3 +15,5 @@
 - [2023/10] **[garak: A Framework for Large Language Model Red Teaming](https://arxiv.org/abs/2406.11036)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/leondz/garak)
 - [2023/05] **[RAGAS](https://docs.ragas.io/en/stable/)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/explodinggradients/ragas) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2023/03] **[AutoGen](https://github.com/microsoft/autogen)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800)
+- [2026/03] **[AgentSeal: Open-source scanner for prompt injection and extraction testing](https://github.com/agentseal/agentseal)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)                                 
+  ![_Agent](https://img.shields.io/badge/_Agent-87b800) 
