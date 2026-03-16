@@ -1,4 +1,5 @@
 # C2. Data Reconstruction
+- [2026/02] **[AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems](https://arxiv.org/abs/2602.11510)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Privatris/AgentLeak) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![_Multi-Agent](https://img.shields.io/badge/_Multi-Agent-87b800) ![_Inter-Agent_Privacy](https://img.shields.io/badge/_Inter-Agent_Privacy-87b800)
 - [2025/10] **[External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2510.02964)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors](https://arxiv.org/abs/2509.21884)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/09] **[Prompt Pirates Need a Map: Stealing Seeds helps Stealing Prompts](https://arxiv.org/abs/2509.09488)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)

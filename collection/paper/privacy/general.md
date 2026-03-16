@@ -1,4 +1,5 @@
 # C0. General
+- [2026/02] **[AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems](https://arxiv.org/abs/2602.11510)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Privatris/AgentLeak) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![_Multi-Agent](https://img.shields.io/badge/_Multi-Agent-87b800) ![_Inter-Agent_Privacy](https://img.shields.io/badge/_Inter-Agent_Privacy-87b800)
 - [2025/11] **[MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](https://arxiv.org/abs/2511.16940)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/10] **[Autonomy Matters: A Study on Personalization-Privacy Dilemma in LLM Agents](https://arxiv.org/abs/2510.04465)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Sanitize Your Responses: Mitigating Privacy Leakage in Large Language Models](https://arxiv.org/abs/2509.24488)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
