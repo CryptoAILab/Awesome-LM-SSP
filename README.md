@@ -40,7 +40,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Book](collection/book.md) (3)
 - [Competition](collection/competition.md) (5)
 - [Leaderboard](collection/leaderboard.md) (5)
-- [Toolkit](collection/toolkit.md) (17)
+- [Toolkit](collection/toolkit.md) (21)
 - [Survey](collection/survey.md) (40)
 - Paper (2380)
     - A. Safety (1191)
