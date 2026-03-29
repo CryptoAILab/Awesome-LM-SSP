@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2026/03] **[Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509)** ![LLM](https://img.shields.io/badge/LLM-589cf4) [![Code](https://img.shields.io/github/stars/wuyoscar/ISC-Bench)](https://github.com/wuyoscar/ISC-Bench)
 - [2026/01] **[TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning](https://arxiv.org/abs/2601.12460)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/12] **[Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
