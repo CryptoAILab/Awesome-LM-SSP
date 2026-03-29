@@ -1,5 +1,5 @@
 # C3. Membership Inference Attacks
-- [2026/03] **[Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents](https://arxiv.org/abs/2603.19375)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Agent](https://img.shields.io/badge/Agent-87b800)
+- [2026/03] **[Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents](https://arxiv.org/abs/2603.19375)** ![LLM/VLM](https://img.shields.io/badge/LLM/VLM-ee82ee) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2026/01] **[VidLeaks: Membership Inference Attacks Against Text-to-Video Models](https://arxiv.org/abs/2601.11210)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
 - [2026/01] **[Powerful Training-Free Membership Inference Against Autoregressive Language Models](https://arxiv.org/abs/2601.12104)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[When Reasoning Leaks Membership: Membership Inference Attack on Black-box Large Reasoning Models](https://arxiv.org/abs/2601.13607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,3 +1,6 @@
 # B4. Side-Channel
 - [2025/11] **[Whisper Leak: a side-channel attack on Large Language Models](https://arxiv.org/abs/2511.03675)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/yo-yo-yo-jbo/whisper_leak) ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions](https://arxiv.org/abs/2510.07176)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[NetEcho: From Real-World Streaming Side-Channels to Full LLM Conversation Recovery](https://arxiv.org/abs/2510.25472)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/03] **[Analyzes traffic fingerprints in LLM agent interactions to reveal user privacy leakage. LLM-WFIN: A Fine-Grained Large Language Model (LLM)-Oriented Website Fingerprinting Attack via Fusing Interrupt Trace and Network Traffic](https://www.mdpi.com/2079-9292/14/7/1263)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Electronics_(MDPI)](https://img.shields.io/badge/Electronics_(MDPI)-f1b800)
+- [2025/02] **[LLMs Have Rhythm: Fingerprinting Large Language Models Using Inter-Token Times and Network Traffic Analysis](https://arxiv.org/abs/2502.20589)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
