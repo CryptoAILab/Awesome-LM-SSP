@@ -1,4 +1,5 @@
 # Survey
+- [2026/01] **[Safety in Embodied AI: Risks, Attacks, and Defenses](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) ![Agent](https://img.shields.io/badge/Agent-87b800) ![Safety](https://img.shields.io/badge/Safety-87b800)
 - [2025/09] **[Responsible Diffusion: A Comprehensive Survey on Safety, Ethics, and Trust in Diffusion Models](https://arxiv.org/abs/2509.22723)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/09] **[A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models](https://arxiv.org/abs/2509.03871)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Reasoning](https://img.shields.io/badge/Reasoning-87b800)
 - [2025/04] **[Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems](https://arxiv.org/abs/2504.01990)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
