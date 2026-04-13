@@ -1,4 +1,5 @@
 # A6. Hallucination
+- [2026/01] **[DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness](https://arxiv.org/abs/2601.14210)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/10] **[Machine Unlearning Meets Adversarial Robustness via Constrained Interventions on LLMs](https://arxiv.org/abs/2510.03567)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations](https://arxiv.org/abs/2510.04398)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination](https://arxiv.org/abs/2508.05188)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
