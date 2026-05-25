@@ -26,6 +26,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
   - First, check papers through our database: [Metadata of LM-SSP](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing).
   - If you want to update the information of a paper (e.g., an arXiv paper has been accepted by a venue), search the paper title in our [metadata table](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing) and then leave a message in the corresponding cell of the table.
   - If you would like to add some paper, please fill in the following table through `ISSUE`:
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels.
 
 | Title | Link  | Code |   Venue |  Classification |  Model | Comment | 
 | ---- |---- |---- |---- |---- |----|----| 
