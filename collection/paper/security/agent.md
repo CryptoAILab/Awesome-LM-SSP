@@ -1,4 +1,5 @@
 # B2. Agent
+- [2026/04] **[Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800) ![Supply_Chain](https://img.shields.io/badge/Supply_Chain-87b800)
 - [2026/02] **["Humans welcome to observe": A First Look at the Agent Social Network Moltbook](https://arxiv.org/abs/2602.10127)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Moltbook](https://img.shields.io/badge/Moltbook-87b800)
 - [2026/02] **[SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement](https://arxiv.org/abs/2602.14211)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[MCPShield: A Security Cognition Layer for Adaptive Trust Calibration in Model Context Protocol Agents](https://arxiv.org/abs/2602.14281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
