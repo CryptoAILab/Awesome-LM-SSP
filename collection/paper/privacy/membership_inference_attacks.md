@@ -46,6 +46,7 @@
 - [2024/09] **[Context-Aware Membership Inference Attacks against Pre-trained Large Language Models](https://arxiv.org/abs/2409.13745)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/abs/2409.14513)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/09] **[Con-ReCall: Detecting Pre-training Data in LLMs via Contrastive Decoding](https://arxiv.org/abs/2409.03363)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2024/06] **[ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://aclanthology.org/2024.emnlp-main.493/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'24](https://img.shields.io/badge/EMNLP'24-f1b800)
 - [2024/09] **[Membership Inference Attacks Against In-Context Learning](https://arxiv.org/abs/2409.01380)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action](https://arxiv.org/abs/2409.00138)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/08] **[MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector](https://arxiv.org/abs/2408.08661)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
