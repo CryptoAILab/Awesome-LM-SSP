@@ -74,7 +74,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 
 ## Big love to the community — thank you! 🙏
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CryptoAILab/Awesome-LM-SSP&type=Date)](https://star-history.com/#CryptoAILab/Awesome-LM-SSP&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=CryptoAILab/Awesome-LM-SSP&type=Date)](https://star-history.dera.page/#CryptoAILab/Awesome-LM-SSP&Date)
 
 ## Acknowledgement
 
