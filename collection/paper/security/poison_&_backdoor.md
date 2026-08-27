@@ -1,4 +1,10 @@
 # B3. Poison & Backdoor
+- [2026/08] **[RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2608.23965)** ![RAG](https://img.shields.io/badge/RAG-ee82ee) ![Defense](https://img.shields.io/badge/Defense-87b800) ![EMNLP'26](https://img.shields.io/badge/EMNLP'26-f1b800)
+- [2026/08] **[What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions](https://arxiv.org/abs/2608.24022)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs](https://arxiv.org/abs/2608.24354)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)
+- [2026/08] **[Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems](https://arxiv.org/abs/2608.24069)** ![Trading Agent](https://img.shields.io/badge/Trading Agent-ee82ee)
+- [2026/08] **[EVOMAL: Self-Poisoning in Self-Evolving Coding Agents](https://arxiv.org/abs/2608.25776)** ![Coding Agent](https://img.shields.io/badge/Coding Agent-ee82ee)
+- [2026/08] **[RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models](https://arxiv.org/abs/2608.26049)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![ICCAD'26](https://img.shields.io/badge/ICCAD'26-f1b800)
 - [2026/03] **[TraceGuard: Process-Guided Firewall against Reasoning Backdoors in Large Language Models](https://arxiv.org/abs/2603.02436)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[Weight space Detection of Backdoors in LoRA Adapters](https://arxiv.org/abs/2602.15195)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[LoRA as Oracle](https://arxiv.org/abs/2601.11207)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

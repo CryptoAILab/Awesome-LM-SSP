@@ -1,4 +1,13 @@
 # B2. Agent
+- [2026/08] **[StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing](https://arxiv.org/abs/2608.24777)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'26](https://img.shields.io/badge/EMNLP'26-f1b800)
+- [2026/08] **[TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers](https://arxiv.org/abs/2608.23763)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MCP](https://img.shields.io/badge/MCP-87b800)
+- [2026/08] **[Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)](https://arxiv.org/abs/2608.23858)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![AP2](https://img.shields.io/badge/AP2-87b800)
+- [2026/08] **[WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents](https://arxiv.org/abs/2608.24017)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions](https://arxiv.org/abs/2608.24022)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems](https://arxiv.org/abs/2608.24069)** ![Trading Agent](https://img.shields.io/badge/Trading Agent-ee82ee)
+- [2026/08] **[Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion](https://arxiv.org/abs/2608.25880)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[EVOMAL: Self-Poisoning in Self-Evolving Coding Agents](https://arxiv.org/abs/2608.25776)** ![Coding Agent](https://img.shields.io/badge/Coding Agent-ee82ee)
+- [2026/08] **[SkillShield: Prompt-Space Security Skills for LLM Coding Agents](https://arxiv.org/abs/2608.25817)** ![Coding Agent](https://img.shields.io/badge/Coding Agent-ee82ee) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2026/02] **["Humans welcome to observe": A First Look at the Agent Social Network Moltbook](https://arxiv.org/abs/2602.10127)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Moltbook](https://img.shields.io/badge/Moltbook-87b800)
 - [2026/02] **[SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement](https://arxiv.org/abs/2602.14211)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[MCPShield: A Security Cognition Layer for Adaptive Trust Calibration in Model Context Protocol Agents](https://arxiv.org/abs/2602.14281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

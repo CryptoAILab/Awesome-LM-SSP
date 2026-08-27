@@ -1,4 +1,5 @@
 # Survey
+- [2026/08] **[Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation](https://arxiv.org/abs/2608.24977)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800) ![EMNLP'26](https://img.shields.io/badge/EMNLP'26-f1b800)
 - [2026/01] **[Safety in Embodied AI: Risks, Attacks, and Defenses](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) ![Agent](https://img.shields.io/badge/Agent-ee82ee)
 - [2025/09] **[Responsible Diffusion: A Comprehensive Survey on Safety, Ethics, and Trust in Diffusion Models](https://arxiv.org/abs/2509.22723)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/09] **[A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models](https://arxiv.org/abs/2509.03871)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Reasoning](https://img.shields.io/badge/Reasoning-87b800)
