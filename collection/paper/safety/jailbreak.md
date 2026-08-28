@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2026/08] **[NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation](https://arxiv.org/abs/2608.26222)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](https://arxiv.org/abs/2608.27439)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution](https://arxiv.org/abs/2608.23959)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![EMNLP'26](https://img.shields.io/badge/EMNLP'26-f1b800)
 - [2026/08] **[Refusal geometry reflects refusal training: diverse refusal prefixes can raise stable rank and weaken refusal vector ablation attacks](https://arxiv.org/abs/2608.25390)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities](https://arxiv.org/abs/2608.25490)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
