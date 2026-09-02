@@ -1,4 +1,7 @@
 # C3. Membership Inference Attacks
+- [2026/08] **[Membership is Ownership: A Robust Ownership Verification Framework for Diffusion Models](https://arxiv.org/abs/2608.28929)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2026/08] **[Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization](https://arxiv.org/abs/2608.30141)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[FISGuard: Defending Against Membership Inference via Fixed Input Subspaces](https://arxiv.org/abs/2608.27836)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[Are LLM-Enhanced GNNs Privacy-Safe?](https://arxiv.org/abs/2608.25727)** ![LLM-enhanced GNN](https://img.shields.io/badge/LLM-enhanced GNN-ee82ee)
 - [2026/03] **[Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents](https://arxiv.org/abs/2603.19375)** ![LLM/VLM](https://img.shields.io/badge/LLM/VLM-ee82ee) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2026/01] **[VidLeaks: Membership Inference Attacks Against Text-to-Video Models](https://arxiv.org/abs/2601.11210)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)

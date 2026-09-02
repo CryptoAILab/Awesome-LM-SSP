@@ -1,4 +1,12 @@
-# B2. Agent
+# B3. Agent
+- [2026/08] **[Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Safe to Resume? Breaking Execution Continuity of Agent Execution via Rollback](https://arxiv.org/abs/2608.29381)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Influence Is Not Authority: When Causal Guardrail Signals Make Legitimate Tool Use Look Like an Attack in Tool-Using LLM Agents](https://arxiv.org/abs/2608.29942)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Toolcall](https://img.shields.io/badge/Toolcall-87b800)
+- [2026/08] **[SIR: Self-improving Red-teaming for Compute Use Agents](https://arxiv.org/abs/2608.30207)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
+- [2026/08] **[Extracting Knowledge from Tools in LLM Agents](https://arxiv.org/abs/2608.30288)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Attesting Outputs and Delegation Ancestry in Multi-Agent AI Systems](https://arxiv.org/abs/2608.30387)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[ECLIPSE: Self-Evolving Stealthy Prompt Injection Attack against Long-Horizon Agentic Systems](https://arxiv.org/abs/2608.30441)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Beyond the Payload: How User Invocation Shapes Coding Agent Vulnerability to Repository Poisoning](https://arxiv.org/abs/2608.30686)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[ADeptS-Bench: Measuring the Trustworthiness of Computer Use Agents Across Devices](https://arxiv.org/abs/2608.26204)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/facebookresearch/adepts-bench) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
 - [2026/08] **[SPA: Securing Persistent LLM Agents Across Queries with Plan-First Information-Flow Control](https://arxiv.org/abs/2608.27234)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

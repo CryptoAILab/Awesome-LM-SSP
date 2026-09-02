@@ -1,4 +1,4 @@
-# B6. System
+# B7. System
 - [2026/08] **[Here is a GIFT: Enforcing User Data Isolation in LLM Serving via GPU Information Flow Tracking](https://arxiv.org/abs/2608.25431)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/03] **[Real Money, Fake Models: Deceptive Model Claims in Shadow APIs](https://arxiv.org/abs/2603.01919)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[Security practices in AI development](https://arxiv.org/abs/2507.21061)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

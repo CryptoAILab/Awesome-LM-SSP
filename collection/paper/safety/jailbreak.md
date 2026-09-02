@@ -1,4 +1,7 @@
 # A1. Jailbreak
+- [2026/08] **[The Fragility of Jailbreak Robustness Across Operational States](https://arxiv.org/abs/2608.30748)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models](https://arxiv.org/abs/2608.27531)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![EMNLP'26](https://img.shields.io/badge/EMNLP'26-f1b800)
+- [2026/08] **[Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study](https://arxiv.org/abs/2608.27504)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Interpretability](https://img.shields.io/badge/Interpretability-87b800) ![ICML'26_Workshop](https://img.shields.io/badge/ICML'26_Workshop-f1b800)
 - [2026/08] **[NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation](https://arxiv.org/abs/2608.26222)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](https://arxiv.org/abs/2608.27439)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution](https://arxiv.org/abs/2608.23959)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![EMNLP'26](https://img.shields.io/badge/EMNLP'26-f1b800)

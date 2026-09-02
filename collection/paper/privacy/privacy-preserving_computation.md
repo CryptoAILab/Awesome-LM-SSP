@@ -1,4 +1,6 @@
 # C5. Privacy-Preserving Computation
+- [2026/08] **[Zero-Knowledge Predicate Proofs Between AI Agents: A Measured, Cross-Protocol Gateway and the Source-Integrity Gap](https://arxiv.org/abs/2608.30083)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/45h0kg/zk-proof-gateway) ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[Not to Break, but to Attest: Adversarial Probes for Privacy-Preserving LLM Verification](https://arxiv.org/abs/2608.27954)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[Differentially Private Retrieval-Augmented Generation](https://arxiv.org/abs/2602.14374)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2026/01] **[Privacy Enhanced PEFT: Tensor Train Decomposition Improves Privacy Utility Tradeoffs under DP-SGD](https://arxiv.org/abs/2601.10045)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration](https://arxiv.org/abs/2512.08809)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,8 @@
-# B3. Poison & Backdoor
+# B4. Poison & Backdoor
+- [2026/08] **[Understanding Stage-Wise Utility-Risk Trade-offs in LLM Agent Memory](https://arxiv.org/abs/2608.30177)** ![Agent](https://img.shields.io/badge/Agent-ee82ee)
+- [2026/08] **[Why Are LLM Backdoor Defenses Fragmented? A Feature-Level Explanation with Sparse Autoencoders](https://arxiv.org/abs/2608.30403)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents](https://arxiv.org/abs/2608.28389)** ![RAG](https://img.shields.io/badge/RAG-ee82ee)
+- [2026/08] **[Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap](https://arxiv.org/abs/2608.27512)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ARES'26](https://img.shields.io/badge/ARES'26-f1b800)
 - [2026/08] **[RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2608.23965)** ![RAG](https://img.shields.io/badge/RAG-ee82ee) ![Defense](https://img.shields.io/badge/Defense-87b800) ![EMNLP'26](https://img.shields.io/badge/EMNLP'26-f1b800)
 - [2026/08] **[What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions](https://arxiv.org/abs/2608.24022)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/08] **[Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs](https://arxiv.org/abs/2608.24354)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)

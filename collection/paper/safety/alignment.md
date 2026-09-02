@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2026/08] **[SingProbe Technical Report](https://arxiv.org/abs/2608.30703)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Matching Ranks Over Probability Yields Truly Deep Safety Alignment](https://arxiv.org/abs/2512.05518)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
