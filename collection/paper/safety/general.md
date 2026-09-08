@@ -1,4 +1,5 @@
 # A0. General
+- [2026/09] **[PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![Agent](https://img.shields.io/badge/Agent-87b800)
 - [2025/10] **[Can LLMs Refuse Questions They Do Not Know? Measuring Knowledge-Aware Refusal in Factual Tasks](https://arxiv.org/abs/2510.01782)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.07968)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/06] **[SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification](https://arxiv.org/abs/2506.17368)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MoE](https://img.shields.io/badge/MoE-87b800)
