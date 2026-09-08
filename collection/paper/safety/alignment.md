@@ -1,4 +1,5 @@
 # A2. Alignment
+- [2026/08] **[Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance](https://arxiv.org/abs/2608.12323)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Agent](https://img.shields.io/badge/Agent-87b800) ![AIES'26](https://img.shields.io/badge/AIES'26-f1b800)
 - [2026/08] **[SingProbe Technical Report](https://arxiv.org/abs/2608.30703)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
