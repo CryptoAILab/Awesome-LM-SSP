@@ -25,6 +25,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - 🔥🔥🔥 Help us update the list! 🔥🔥🔥
   - First, check papers through our database: [Metadata of LM-SSP](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing).
   - If you want to update the information of a paper (e.g., an arXiv paper has been accepted by a venue), search the paper title in our [metadata table](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing) and then leave a message in the corresponding cell of the table.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
   - If you would like to add some paper, please fill in the following table through `ISSUE`:
 
 | Title | Link  | Code |   Venue |  Classification |  Model | Comment | 
