@@ -25,6 +25,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - 🔥🔥🔥 Help us update the list! 🔥🔥🔥
   - First, check papers through our database: [Metadata of LM-SSP](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing).
   - If you want to update the information of a paper (e.g., an arXiv paper has been accepted by a venue), search the paper title in our [metadata table](https://docs.google.com/spreadsheets/d/1i2IfQJiAdFJueoy7sTv7snn__ZJx11GfiJx8rhDyfc0/edit?usp=sharing) and then leave a message in the corresponding cell of the table.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
   - If you would like to add some paper, please fill in the following table through `ISSUE`:
 
 | Title | Link  | Code |   Venue |  Classification |  Model | Comment | 
@@ -44,15 +45,15 @@ The resources related to the trustworthiness of large models (LMs) across multip
 - [Survey](collection/survey.md) (42)
 - Paper (2467)
     - A. Safety (1207)
-        - [A0. General](collection/paper/safety/general.md) (30)
-        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (545)
-        - [A2. Alignment](collection/paper/safety/alignment.md) (148)
-        - [A3. Deepfake](collection/paper/safety/deepfake.md) (94)
-        - [A4. Ethics](collection/paper/safety/ethics.md) (8)
-        - [A5. Fairness](collection/paper/safety/fairness.md) (60)
-        - [A6. Hallucination](collection/paper/safety/hallucination.md) (118)
-        - [A7. Prompt Injection](collection/paper/safety/prompt_injection.md) (118)
-        - [A8. Toxicity](collection/paper/safety/toxicity.md) (86)
+        - [A0. General](collection/paper/token-risk/general.md) (30)
+        - [A1. Jailbreak](collection/paper/token-risk/jailbreak.md) (545)
+        - [A2. Alignment](collection/paper/token-risk/alignment.md) (148)
+        - [A3. Deepfake](collection/paper/token-risk/deepfake.md) (94)
+        - [A4. Ethics](collection/paper/token-risk/ethics.md) (8)
+        - [A5. Fairness](collection/paper/token-risk/fairness.md) (60)
+        - [A6. Hallucination](collection/paper/token-risk/hallucination.md) (118)
+        - [A7. Prompt Injection](collection/paper/token-risk/prompt_injection.md) (118)
+        - [A8. Toxicity](collection/paper/token-risk/toxicity.md) (86)
     - B. Security (521)
         - [B0. General](collection/paper/security/general.md) (16)
         - [B1. Adversarial Examples](collection/paper/security/adversarial_examples.md) (105)
