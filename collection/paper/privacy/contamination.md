@@ -1,4 +1,5 @@
 # C1. Contamination
+- [2026/05] **[The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation](https://arxiv.org/abs/2605.21856)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Yifan-Lan/zero-cot-probe) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[On The Fragility of Benchmark Contamination Detection in Reasoning Models](https://arxiv.org/abs/2510.02386)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Beyond Memorization: Reasoning-Driven Synthesis as a Mitigation Strategy Against Benchmark Contamination](https://arxiv.org/abs/2509.00072)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/07] **[How Much Do Large Language Model Cheat on Evaluation? Benchmarking Overestimation under the One-Time-Pad-Based Framework](https://arxiv.org/abs/2507.19219)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)

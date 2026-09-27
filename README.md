@@ -64,7 +64,7 @@ The resources related to the trustworthiness of large models (LMs) across multip
         - [B7. System](collection/paper/security/system.md) (26)
     - C. Privacy (739)
         - [C0. General](collection/paper/privacy/general.md) (55)
-        - [C1. Contamination](collection/paper/privacy/contamination.md) (17)
+        - [C1. Contamination](collection/paper/privacy/contamination.md) (18)
         - [C2. Data Reconstruction](collection/paper/privacy/data_reconstruction.md) (69)
         - [C3. Membership Inference Attacks](collection/paper/privacy/membership_inference_attacks.md) (73)
         - [C4. Model Extraction](collection/paper/privacy/model_extraction.md) (15)
