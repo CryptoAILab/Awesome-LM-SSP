@@ -1,4 +1,5 @@
 # C7. Side-Channel
+- [2025/10] **[GateBleed: Exploiting On-Core Accelerator Power Gating for High Performance and Stealthy Attacks on AI](https://doi.org/10.1145/3725843.3756097)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![MICRO'25](https://img.shields.io/badge/MICRO'25-f1b800)
 - [2025/08] **[MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs](https://arxiv.org/abs/2508.15036)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/08] **[Selective KV-Cache Sharing to Mitigate Timing Side-Channels in LLM Inference](https://arxiv.org/abs/2508.08438)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference](https://arxiv.org/abs/2508.09442)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
