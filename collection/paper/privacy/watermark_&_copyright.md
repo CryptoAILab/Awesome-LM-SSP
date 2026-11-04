@@ -1,4 +1,8 @@
 # C9. Watermark & Copyright
+- [2026/08] **[Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification](https://arxiv.org/abs/2608.31142)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/08] **[WoE Wrote It? Watermarking Mixture-of-Experts LLMs for Black-Box Text Provenance](https://arxiv.org/abs/2608.29151)** ![MoE](https://img.shields.io/badge/MoE-ee82ee)
+- [2026/08] **[Membership is Ownership: A Robust Ownership Verification Framework for Diffusion Models](https://arxiv.org/abs/2608.28929)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2026/08] **[Semantic Watermarking with Order-Robust Detection over Sub-sentence Units](https://arxiv.org/abs/2608.27666)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/D-Diaa/SwordStamp) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/02] **[MarkSweep: A No-box Removal Attack on AI-Generated Image Watermarking via Noise Intensification and Frequency-aware Denoising](https://arxiv.org/abs/2602.15364)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICASSP‘26](https://img.shields.io/badge/ICASSP‘26-f1b800)
 - [2026/01] **[KinGuard: Hierarchical Kinship-Aware Fingerprinting to Defend Against Large Language Model Stealing](https://arxiv.org/abs/2601.12986)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICASSP‘26](https://img.shields.io/badge/ICASSP‘26-f1b800)
 - [2025/12] **[Cryptanalysis of Pseudorandom Error-Correcting Codes](https://eprint.iacr.org/2025/2283)** ![LLM/Diffusion](https://img.shields.io/badge/LLM/Diffusion-ee82ee) ![Cryptanalysis](https://img.shields.io/badge/Cryptanalysis-87b800)
